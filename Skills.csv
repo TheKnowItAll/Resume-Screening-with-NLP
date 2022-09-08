@@ -1,0 +1,13 @@
+Machine Learning,Deep Learning,Python Language,Data Engineering
+linear regression,neural network,Python Language,aws
+logistic regression,keras,flask,ec2
+kmeans,face detection ,django,amazon redshift
+random fores,opencv,pandas,s3
+xgboost,cnn,numpy,docker
+naïve bayes,rnn,scikit learn,aws lambda
+pca,,matplotlib,lambda
+decision trees,,scipy,aws emr
+esemble models,,seaborn,emr
+,,,hive
+,,,hadoop
+,,,sql
